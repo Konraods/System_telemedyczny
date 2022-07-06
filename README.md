@@ -1,2 +1,2 @@
 # System_telemedyczny
-The project is about designing and building a device supporting the records of patients' arrival and departure from the procedure
+Projekt budowy nadajnika do ewidencjonowania wejść i wyjść pacjentów.
